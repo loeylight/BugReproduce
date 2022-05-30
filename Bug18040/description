@@ -1,0 +1,1 @@
+[Bug] Crash: Tapping "Study" shortcut ends up closing AnkiDroid immediately without any explanation if the last-selected deck doesn't have any "due" cards #10840
